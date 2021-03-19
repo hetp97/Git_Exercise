@@ -1,4 +1,4 @@
-Git hub commands
+Git hub commands:-
 
 git clone [path]
 
